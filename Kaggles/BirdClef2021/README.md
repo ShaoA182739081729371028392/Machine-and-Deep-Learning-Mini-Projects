@@ -8,3 +8,4 @@ Models Used(Bagged Ensemble):
 
 
 PUBLIC SCORE: 0.90 CV(Weakly Supervised), 0.68 LB: 85th Position on Public LeaderBoard.
+PRIVATE SCORE: 0.62 LB, 75th Position Private Leaderboard.
