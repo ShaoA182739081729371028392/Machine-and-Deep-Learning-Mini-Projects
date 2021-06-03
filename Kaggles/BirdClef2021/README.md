@@ -6,6 +6,3 @@ Models Used(Bagged Ensemble):
 - 3 PANN ResNest50 classifiers
 - 4 Other Misc Models(DenseNet121, DenseNet169, DenseNet201, CNN14(PANN pretrained))
 
-
-PUBLIC SCORE: 0.90 CV(Weakly Supervised), 0.68 LB: 85th Position on Public LeaderBoard.
-PRIVATE SCORE: 0.62 LB, 75th Position Private Leaderboard.
