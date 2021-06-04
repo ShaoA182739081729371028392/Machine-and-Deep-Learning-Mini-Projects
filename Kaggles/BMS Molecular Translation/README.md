@@ -10,4 +10,4 @@ Post Processing:
 - RDKit normalization
 - Batched Beam Search(Implemented from scratch in TensorFlow) on confused samples(disagreement samples between Submissions)
 
-PUBLIC Score: 1.3 LB, 0.9 CV
+PUBLIC Score: 1.03 LB, 0.8 CV
